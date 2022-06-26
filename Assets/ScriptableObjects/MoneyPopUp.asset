@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee84600fa4dc91f46a71fe98d7c7e751, type: 3}
+  m_Name: MoneyPopUp
+  m_EditorClassIdentifier: 
+  tag: MoneyPopUp
+  prefab: {fileID: 4119102980490026332, guid: 57074c5b89853e8458e946d389e3cf3d, type: 3}
+  size: 50
